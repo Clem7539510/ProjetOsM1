@@ -29,6 +29,9 @@ Affichage des informations sur les comptes locaux (privilèges attribués à cha
 utilisateur, date de la dernière connexion, …etc) et vérification des paramètres des comptes.
 #>
 
+whoami /priv
+whoami /all
+
 <#
 Afficher les paramètres de la vie privée, par exemple : Wifi sense (si version
 Windowsinférieure à 1709), SmartScreen Filter dans Edge, suggestions du menu de
